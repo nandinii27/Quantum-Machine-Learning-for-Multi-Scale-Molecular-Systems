@@ -81,14 +81,11 @@ U(x) = ∏ₗ [∏ᵢ RY(xₗᵢ) RZ(xₗᵢ/2)] [∏ᵢ CNOT(i,i+1)]
 
 ---
 
-## future Roadmap
+## future roadmap
 
-** Deployment:**
 - RDMFT surrogate for high-throughput fragment screening
 - QM/MM classifier for automated region selection in protein-ligand simulations
 - Reactivity predictor for early-stage ADMET filtering
-
-**future scope:**
 - Integrate electronic structure features (HOMO, LUMO, orbital overlaps)
 - Validate on high-quality benchmarks (QUEST, W4-11, GDB datasets)
 - Interface with production quantum chemistry codes (PySCF, Gaussian, ORCA)
