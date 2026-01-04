@@ -101,8 +101,6 @@ U(x) = ∏ₗ [∏ᵢ RY(xₗᵢ) RZ(xₗᵢ/2)] [∏ᵢ CNOT(i,i+1)]
 
 
 
-**Collaboration:** Open to academic/industrial partnerships in quantum computing for pharmaceutical R&D
-
 ---
 
 **License:** MIT | **Last Updated:** January 2026
