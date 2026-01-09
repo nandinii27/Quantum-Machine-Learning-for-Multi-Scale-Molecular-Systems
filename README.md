@@ -8,11 +8,9 @@ Systematic investigation of quantum kernel methods for computational chemistry b
 
 ## Results Summary
 
-| Application | Task | Quantum | Classical | Impact |
-|------------|------|---------|-----------|--------|--------|
-| **RDMFT/DMET** | Regression | **R² = 0.996** | R² = 0.999 | Fragment-based drug design (1000× speedup vs CCSD(T)) |
-| **QM/MM Boundaries** | Classification | **Acc = 1.000** | Acc = 1.000 | Automated adaptive partitioning for enzyme catalysis |
-| **Reactivity Sites** | Classification | **Acc = 0.900** | Acc = 0.954 | Metabolic soft spot prediction for ADMET optimization |
+| **RDMFT/DMET** Fragment-based drug design (1000× speedup vs CCSD(T)) |  
+| **QM/MM Boundaries** Automated adaptive partitioning for enzyme catalysis |  
+| **Reactivity Sites** Metabolic soft spot prediction for ADMET optimization |  
 
 ### ⚠ Exploratory Applications (Under Development)
 
